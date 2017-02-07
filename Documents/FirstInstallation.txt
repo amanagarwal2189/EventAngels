@@ -10,4 +10,19 @@ This assumes that you have installed node on your PC.
 install mongodb on your computer
 enter the path of installation in your Path variable in properties.
 
->mongo should start the mongo shell
+1) start the mongo server on your computer by
+    >mongod --dbpath "c:\data"
+  c:\data could be replaced by any folder where you want to store the data
+2) Start the client in another browser 
+>mongo 
+should start the mongo shell
+
+3)
+
+
+
+
+
+References:
+1)(http://stackoverflow.com/questions/41334164/mongo-is-unable-to-start)
+2) https://docs.mongodb.com/manual/mongo/
