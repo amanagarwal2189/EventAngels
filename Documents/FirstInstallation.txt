@@ -5,3 +5,9 @@ This assumes that you have installed node on your PC.
 >node package manager
 >npm install express --save
 >npm install mongodb --save
+
+
+install mongodb on your computer
+enter the path of installation in your Path variable in properties.
+
+>mongo should start the mongo shell
