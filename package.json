@@ -1,0 +1,28 @@
+{
+  "name": "eventangels",
+  "version": "1.0.0",
+  "description": "Project on MEAN stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amanagarwal2189/EventAngels.git"
+  },
+  "keywords": [
+    "eventmanagement",
+    "node.js",
+    "sponsorship"
+  ],
+  "author": "Aman Agarwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amanagarwal2189/EventAngels/issues"
+  },
+  "homepage": "https://github.com/amanagarwal2189/EventAngels#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "mongodb": "^2.2.22"
+  }
+}
