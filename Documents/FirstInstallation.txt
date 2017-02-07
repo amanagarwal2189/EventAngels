@@ -1,0 +1,7 @@
+if using windows, run these in powershell. Go to the path of the project and run these commands.
+This assumes that you have installed node on your PC.
+
+>npm init
+>node package manager
+>npm install express --save
+>npm install mongodb --save
